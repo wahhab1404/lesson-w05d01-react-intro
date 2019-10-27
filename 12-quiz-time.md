@@ -2,7 +2,10 @@
 
 ## Quiz Time
 
-Mark your answer with an * at the end of the line.
+1. Fork and Clone this repo.
+2. Put your answers in this file.
+3. You may use any resource except each other.
+4. Submit a pull request when you're done.
 
 ### Questions:
 
@@ -20,6 +23,10 @@ _Choices_:
 1. `Milkshake.js`
 2. `Ingredients.js`
 
+```
+PUT YOUR ANSWER HERE
+```
+
 
 -----------------------------------
 
@@ -31,6 +38,10 @@ _Choices_:
 2. `<p>My favorite ice cream is {props.this.flavor}!</p>`
 3. `<p>My favorite ice cream is {props.flavor}!</p>`
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
+
+```
+PUT YOUR ANSWER HERE
+```
 
 
 -----------------------------------
@@ -53,6 +64,10 @@ _Choices_:
 1. Yes
 2. No
 
+```
+PUT YOUR ANSWER HERE
+```
+
 
 ----------------------------------
 
@@ -69,6 +84,10 @@ _Choices_:
 
 1. Yes
 2. No
+
+```
+PUT YOUR ANSWER HERE
+```
 
 
 ----------------------------------
@@ -92,6 +111,10 @@ _Choices_:
 
 4. The `ReactDOM.render` method generates a new element with an ID of `root`, which it populates with the JSX returned from the `Kangaroos` component. React updates the virtual DOM to have this new element, which the browser sees to dynamically change the page with the new element on it.
 
+```
+PUT YOUR ANSWER HERE
+```
+
 
 
 -----------------------------------
@@ -102,6 +125,10 @@ _Choices_:
 
 1. True
 2. False
+
+```
+PUT YOUR ANSWER HERE
+```
 
 
 ----------------------------------
@@ -114,6 +141,10 @@ _Choices_:
 2. A boilerplate that eliminates displaying JSON retrieved from your server. It updates the model portion of your web application to dynamically render UI.
 3. A library of independent, reusable pieces of user interface that you can call upon to add variability to your application.
 4. All of the above
+
+```
+PUT YOUR ANSWER HERE
+```
 
 
 -----------------------------------
@@ -149,6 +180,10 @@ _Choices_:
 3. The `const groceryList` declaration needs to be inside the `render` method
 4. When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
 
+```
+PUT YOUR ANSWER HERE
+```
+
 
 
 ----------------------------------
@@ -162,6 +197,10 @@ _Choices_:
 2. `create-react-app jungle_maze.js`
 3. `create-react-app jungle_maze`
 4. `create-react-app index/jungle_maze.js`
+
+```
+PUT YOUR ANSWER HERE
+```
 
 
 ----------------------------------
@@ -194,3 +233,26 @@ _Choices_:
 
 1. Yes
 2. No
+
+```
+PUT YOUR ANSWER HERE
+```
+
+
+----------------------------------
+
+_Prompt_: Where does `constructor()` go, and when do you need it?
+
+Choices:
+
+1. At the top of the component class; you always need it for accurate setup of that class.
+
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
+
+3. In the component class' `render()` method; you always need it for accurate setup of that class.
+
+4. In the component class' `render()` method;  you only need it if you are changing any initial configurations for that class.
+
+```
+PUT YOUR ANSWER HERE
+```
